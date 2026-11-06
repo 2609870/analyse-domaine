@@ -16,7 +16,7 @@
 |---|---|---|
 | Graphisme | Moyen | ... |
 | Vidéo et animation 2D | Moyen | ... |
-| 3D | Fort | ... |
+| 3D | Fort | Je trouve fascinant de pouvoir recréer virtuellement des choses réelles. |
 | Web | Moyen | Mon intérêt dépend du site web |
 | Jeux vidéo | Fort | ... |
 | Développement logiciel | Moyen | Mon intérêt dépend du logiciel |
@@ -28,7 +28,7 @@
 
 - Expérience : J'en fait dans mon temps libre.
 - Logiciels et outils : Blockbench, Blender
-- Pourquoi il m'intéresse : ...
+- Pourquoi il m'intéresse : Je trouve fascinant de pouvoir recréer virtuellement des choses réelles.
 - Travailler dans ce domaine : Oui,
 
 ### Domaine 2 : Photographie
@@ -40,7 +40,7 @@
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : ...
+- Types d'entreprises : Studios
 - Exemple d'entreprise : ...
 
 ![Nom de l'entreprise](entreprise.jpg)
