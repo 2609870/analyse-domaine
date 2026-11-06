@@ -17,9 +17,9 @@
 | Graphisme | Moyen | ... |
 | Vidéo et animation 2D | Moyen | ... |
 | 3D | Fort | ... |
-| Web | Moyen | ... |
+| Web | Moyen | Mon intérêt dépend du site web |
 | Jeux vidéo | Fort | ... |
-| Développement logiciel | Moyen | ... |
+| Développement logiciel | Moyen | Mon intérêt dépend du logiciel |
 | Installations et expériences immersives | Faible | Ça m'a l'air fastidieux. |
 
 ## Mes 2 domaines préférés
