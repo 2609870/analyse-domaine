@@ -15,7 +15,7 @@
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
 | Graphisme | Moyen | ... |
-| Vidéo et animation 2D | Moyen | ... |
+| Vidéo et animation 2D | Moyen | Je préfèrerais animer en 3D. |
 | 3D | Fort | Je trouve fascinant de pouvoir recréer virtuellement des choses réelles. |
 | Web | Moyen | Mon intérêt dépend du site web |
 | Jeux vidéo | Fort | Je trouve que l'interractivité donne au jeu vidéo une profondeur qui est propre à ce média. |
