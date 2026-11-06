@@ -35,7 +35,7 @@
 
 - Expérience : Je suis des cours de photographie au cégep.
 - Logiciels et outils : Lightroom, Lightcraft
-- Pourquoi il m'intéresse : ...
+- Pourquoi il m'intéresse : À mon sens, la photographie est l'un des meilleurs arts pour s'exprimer sur le présent.
 - Travailler dans ce domaine : ...
 
 ## Les caractéristiques de mon domaine préféré
