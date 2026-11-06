@@ -2,7 +2,7 @@
 
 ## Découverte de soi
 
-- Mes forces : ...
+- Mes forces : Je me passione facilement pour des domaines.
     - Exemple : ...
 - Mes faiblesses ou points à améliorer : ...
     - Exemple : ...
@@ -18,7 +18,7 @@
 | Vidéo et animation 2D | Moyen | ... |
 | 3D | Fort | Je trouve fascinant de pouvoir recréer virtuellement des choses réelles. |
 | Web | Moyen | Mon intérêt dépend du site web |
-| Jeux vidéo | Fort | ... |
+| Jeux vidéo | Fort | Je trouve que l'interractivité donne au jeu vidéo une profondeur qui est propre à ce média. |
 | Développement logiciel | Moyen | Mon intérêt dépend du logiciel |
 | Installations et expériences immersives | Faible | Ça m'a l'air fastidieux. |
 
