@@ -14,7 +14,7 @@
 
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
-| Graphisme | Moyen | ... |
+| Graphisme | Moyen | Je trouve les designs bien faits satisfaisants, mais c'est tout. |
 | Vidéo et animation 2D | Moyen | Je préfèrerais animer en 3D. |
 | 3D | Fort | Je trouve fascinant de pouvoir recréer virtuellement des choses réelles. |
 | Web | Moyen | Mon intérêt dépend du site web |
