@@ -41,7 +41,7 @@
 ## Les caractéristiques de mon domaine préféré
 
 - Types d'entreprises : Studio de jeux vidéos
-- Exemple d'entreprise : ...
+- Exemple d'entreprise : Behaviour Interactive
 
 ![Nom de l'entreprise](entreprise.jpg)
 
