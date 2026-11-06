@@ -43,7 +43,7 @@
 - Types d'entreprises : Studio de jeux vidéos
 - Exemple d'entreprise : Behaviour Interactive
 
-![Nom de l'entreprise](entreprise.jpg)
+![BehaviourInteractive](meta_JOBS_FB.jpg)
 
 (source de l'image : ...)
 
