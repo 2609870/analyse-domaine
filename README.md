@@ -45,7 +45,7 @@
 
 ![BehaviourInteractive](meta_JOBS_FB.jpg)
 
-(source de l'image : ...)
+(source de l'image : www.bhvr.com)
 
 - Types de produits et de services : Modèles 3D
 - Étapes de production : Trouver un concept, trouver des références visuelles, faire un croquis, modéliser et faire les textures
