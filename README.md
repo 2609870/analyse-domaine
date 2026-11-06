@@ -20,7 +20,7 @@
 | Web | Moyen | ... |
 | Jeux vidéo | Fort | ... |
 | Développement logiciel | Moyen | ... |
-| Installations et expériences immersives | Faible | ... |
+| Installations et expériences immersives | Faible | Ça m'a l'air fastidieux. |
 
 ## Mes 2 domaines préférés
 
@@ -33,8 +33,8 @@
 
 ### Domaine 2 : Photographie
 
-- Expérience : ...
-- Logiciels et outils : ...
+- Expérience : Je suis des cours de photographie au cégep.
+- Logiciels et outils : Lightroom, Lightcraft
 - Pourquoi il m'intéresse : ...
 - Travailler dans ce domaine : ...
 
