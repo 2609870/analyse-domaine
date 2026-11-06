@@ -4,8 +4,8 @@
 
 - Mes forces : Je me passione facilement pour des domaines.
     - Exemple : La fois où j'ai réussi à composer de la musique, j'y ai consacré mon temps libre durant les semaines suivantes.
-- Mes faiblesses ou points à améliorer : ...
-    - Exemple : ...
+- Mes faiblesses ou points à améliorer : J'expérimente trop.
+    - Exemple : Il m'arrive de jouer avec des effets ou des techniques plutôt que de me concentrer sur une tâche.
 - Seul(e) ou en équipe : Seul
     - Pourquoi et exemple : Je me concentre mieux sur mon travail quand je n'ai pas à me coordonner avec d'autres.
 - Plutôt technique ou créatif : Créatif
