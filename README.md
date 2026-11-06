@@ -48,9 +48,9 @@
 (source de l'image : ...)
 
 - Types de produits et de services : Modèles 3D
-- Étapes de production : ...
+- Étapes de production : Trouver un concept, trouver des références visuelles, faire un croquis, modéliser et faire les textures
 - Type d'emploi visé : Modélisateur 3D
-- Étapes pour obtenir cet emploi : ...
+- Étapes pour obtenir cet emploi : Faire des études en lien avec le domaine, monter un portfolio et postuler
 
 ## Conclusion
 
