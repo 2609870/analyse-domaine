@@ -29,18 +29,18 @@
 - Expérience : J'en fait dans mon temps libre.
 - Logiciels et outils : Blockbench, Blender
 - Pourquoi il m'intéresse : Je trouve fascinant de pouvoir recréer virtuellement des choses réelles.
-- Travailler dans ce domaine : Oui,
+- Travailler dans ce domaine : Oui
 
 ### Domaine 2 : Photographie
 
 - Expérience : Je suis des cours de photographie au cégep.
 - Logiciels et outils : Lightroom, Lightcraft
 - Pourquoi il m'intéresse : À mon sens, la photographie est l'un des meilleurs arts pour s'exprimer sur le présent.
-- Travailler dans ce domaine : Oui,
+- Travailler dans ce domaine : Oui
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : Studios
+- Types d'entreprises : Studio
 - Exemple d'entreprise : ...
 
 ![Nom de l'entreprise](entreprise.jpg)
@@ -54,8 +54,8 @@
 
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
+- Mon profil en une phrase : Je suis plutôt enthousiaste par rapport à tout ce qui touche à l'art.
+- Ce qui m'a surpris : Rien
 - Ma force principale et la faiblesse à travailler : La passion et la distraction
 - Mon action d'ici la fin de la session : Maîtriser les choses que je comprend déjà
 
